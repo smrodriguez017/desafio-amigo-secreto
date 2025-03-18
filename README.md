@@ -2,15 +2,15 @@
 ![image](https://github.com/user-attachments/assets/403f7c76-b88e-452a-a67c-02c6c53e6b08)
 
 ## 📑 Índice
-1. [📄 Descripción](#descripción)
-2. [✨ Funcionalidades](#funcionalidades)
+1. [📄 Descripción](#-descripción)
+2. [✨ Funcionalidades](#-funcionalidades)
    - [✅ Agregar nombres](#agregar-nombres)
    - [✅ Visualizar la lista](#visualizar-la-lista)
    - [✅ Validación de entrada](#validación-de-entrada)
    - [✅ Sorteo aleatorio](#sorteo-aleatorio)
-3. [🛠 Tecnologías utilizadas](#tecnologías-utilizadas)
-4. [📥 Acceso al proyecto](#acceso-al-proyecto)
-5. [🛠️ Abrir y ejecutar el proyecto](#abrir-y-ejecutar-el-proyecto)
+3. [🛠 Tecnologías utilizadas](#-tecnologías-utilizadas)
+4. [📥 Acceso al proyecto](#-acceso-al-proyecto)
+5. [🛠️ Abrir y ejecutar el proyecto](#️-abrir-y-ejecutar-el-proyecto)
 
 ## 📄 Descripción
 
@@ -18,17 +18,17 @@
 
 ## ✨ Funcionalidades
 
-### ✅ Agregar nombres
+### Agregar nombres
 Los usuarios pueden ingresar nombres en un campo de texto y agregarlos a la lista haciendo clic en el botón **"Añadir"**.
 
 ![image](https://github.com/user-attachments/assets/49ab981e-a3ee-493a-95ba-997ebc59a5c8)
 
-### ✅ Visualizar la lista
+### Visualizar la lista
 Los nombres ingresados se mostrarán en una lista visible debajo del campo de entrada.
 
 ![image](https://github.com/user-attachments/assets/90d9bf2f-70c3-4340-b749-2d7c5a2e8eb8)
 
-### ✅ Validación de entrada  
+### Validación de entrada  
 - Si el campo de texto está vacío, se mostrará una alerta:  
   ⚠️ `"Por favor, inserte un nombre."`
   
@@ -39,7 +39,7 @@ Los nombres ingresados se mostrarán en una lista visible debajo del campo de en
 
 ![image](https://github.com/user-attachments/assets/1aa48f02-3879-4b08-bbfe-e7823ac04342)
 
-### ✅ Sorteo aleatorio
+### Sorteo aleatorio
 Al hacer clic en el botón **"Sortear amigo"**, la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
 
 ![image](https://github.com/user-attachments/assets/bb3ee914-977d-4844-93d4-2288f01f8f04)
