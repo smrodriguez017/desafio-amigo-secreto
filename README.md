@@ -9,7 +9,7 @@
 
 ✅ **Agregar nombres**: Los usuarios pueden ingresar nombres en un campo de texto y agregarlos a la lista haciendo clic en el botón **"Añadir"**.
 
-![image](https://github.com/user-attachments/assets/49ab9814-a3ee-493a-95ba-997ebc59a5c8)
+![image](https://github.com/user-attachments/assets/49ab981e-a3ee-493a-95ba-997ebc59a5c8)
 
 ✅ **Visualizar la lista**: Los nombres ingresados se mostrarán en una lista visible debajo del campo de entrada.
 
@@ -18,10 +18,10 @@
 ✅ **Validación de entrada**:  
 - Si el campo de texto está vacío, se mostrará una alerta:  
   ⚠️ `"Por favor, inserte un nombre."`
+![image](https://github.com/user-attachments/assets/8d4c7914-f4a2-4835-9206-be0f11b668b3)
 - Si el nombre ya está en la lista, se mostrará otra alerta:  
   ⚠️ `"El nombre ... ya está en la lista"`
-
-![image](https://github.com/user-attachments/assets/8d4c7914-f4a2-4835-9206-be0f11b668b3)
+![image](https://github.com/user-attachments/assets/1aa48f02-3879-4b08-bbfe-e7823ac04342)
 
 ✅ **Sorteo aleatorio**: Al hacer clic en el botón **"Sortear Amigo"**, la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
 
