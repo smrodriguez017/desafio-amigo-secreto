@@ -2,15 +2,15 @@
 ![image](https://github.com/user-attachments/assets/403f7c76-b88e-452a-a67c-02c6c53e6b08)
 
 ## 📑 Índice
-1. [📄 Descripción](#-descripción)
-2. [✨ Funcionalidades](#-funcionalidades)
-   - [✅ Agregar nombres](#-agregar-nombres-)
-   - [✅ Visualizar la lista](#-visualizar-la-lista-)
-   - [✅ Validación de entrada](#-validación-de-entrada-)
-   - [✅ Sorteo aleatorio](#-sorteo-aleatorio-)
-3. [🛠 Tecnologías utilizadas](#-tecnologías-utilizadas)
-4. [📥 Acceso al proyecto](#-acceso-al-proyecto)
-5. [🛠️ Abrir y ejecutar el proyecto](#️-abrir-y-ejecutar-el-proyecto)
+1. [📄 Descripción](#descripción)
+2. [✨ Funcionalidades](#funcionalidades)
+   - [✅ Agregar nombres](#agregar-nombres)
+   - [✅ Visualizar la lista](#visualizar-la-lista)
+   - [✅ Validación de entrada](#validación-de-entrada)
+   - [✅ Sorteo aleatorio](#sorteo-aleatorio)
+3. [🛠 Tecnologías utilizadas](#tecnologías-utilizadas)
+4. [📥 Acceso al proyecto](#acceso-al-proyecto)
+5. [🛠️ Abrir y ejecutar el proyecto](#abrir-y-ejecutar-el-proyecto)
 
 ## 📄 Descripción
 
