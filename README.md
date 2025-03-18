@@ -29,10 +29,10 @@ Tambien se valida que no se duplique el nombre de amigo ingresado  ,en este caso
 ![image](https://github.com/user-attachments/assets/1aa05d42-77e7-4d32-8d12-c743459774db)
 
 ## 🛠 Tecnologías utilizadas
--**HTML5**: Estructura de la aplicación.
--**CSS3**: Estilos visuales utilizando variables CSS y diseño flexible.
--**JavaScript**: Lógica de la aplicación, incluyendo la validación de entrada, actualización de la lista y sorteo aleatorio.
--**Google Fonts**: Se utilizaron fuentes personalizadas para mejorar la tipografía de la aplicación.
+--HTML5: Estructura de la aplicación.
+--CSS3: Estilos visuales utilizando variables CSS y diseño flexible.
+--JavaScript: Lógica de la aplicación, incluyendo la validación de entrada, actualización de la lista y sorteo aleatorio.
+--Google Fonts: Se utilizaron fuentes personalizadas para mejorar la tipografía de la aplicación.
 
 ## 📥 Acceso al Proyecto  
 
@@ -52,7 +52,7 @@ Para acceder al código fuente del proyecto, sigue estos pasos:
 
 Sigue estos pasos para ejecutar el proyecto correctamente en Visual Studio Code:
 
-1. Asegúrate de tener Live Server instalado en VS Code.
+1.Asegúrate de tener Live Server instalado en VS Code.
 Si no lo tienes, instálalo desde la pestaña de Extensiones (Ctrl + Shift + X) buscando Live Server.
 
 2.Abre el archivo index.html en VS Code.
