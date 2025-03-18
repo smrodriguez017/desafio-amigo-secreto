@@ -28,7 +28,7 @@
 
 ✅ **Sorteo aleatorio**: Al hacer clic en el botón **"Sortear Amigo"**, la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
 
-![image](https://github.com/user-attachments/assets/1aa05d42-77e7-4d32-8d12-c743459774db)
+![image](https://github.com/user-attachments/assets/bb3ee914-977d-4844-93d4-2288f01f8f04)
 
 ---
 
