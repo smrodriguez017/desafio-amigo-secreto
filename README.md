@@ -34,10 +34,9 @@
 
 ## 🛠 Tecnologías utilizadas
 
-- **HTML5**: Estructura de la aplicación.  
-- **CSS3**: Estilos visuales con variables CSS y diseño flexible.  
-- **JavaScript**: Lógica de la aplicación (validaciones, actualización de lista y sorteo).  
-- **Google Fonts**: Fuentes personalizadas para mejorar la tipografía.  
+- **HTML5**  
+- **CSS3** 
+- **JavaScript**
 
 ---
 
