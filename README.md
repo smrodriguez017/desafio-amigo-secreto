@@ -40,7 +40,7 @@ Los nombres ingresados se mostrarán en una lista visible debajo del campo de en
 ![image](https://github.com/user-attachments/assets/1aa48f02-3879-4b08-bbfe-e7823ac04342)
 
 ### ✅ Sorteo aleatorio
-Al hacer clic en el botón **"Sortear Amigo"**, la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
+Al hacer clic en el botón **"Sortear amigo"**, la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
 
 ![image](https://github.com/user-attachments/assets/bb3ee914-977d-4844-93d4-2288f01f8f04)
 
