@@ -1,7 +1,7 @@
-# 🎁 Juego "Amigo Secreto"
+# 🎮 Juego "Amigo Secreto"
 ![image](https://github.com/user-attachments/assets/403f7c76-b88e-452a-a67c-02c6c53e6b08)
 
-## 📖 Descripción
+## 📄 Descripción
 
 **Amigo Secreto** es un juego que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién será su "amigo secreto". Es ideal para organizar intercambios de regalos de manera rápida y sencilla.
 
@@ -41,8 +41,11 @@
 ---
 
 ## 📥 Acceso al proyecto  
+Puedes acceder a la aplicación directamente desde el siguiente enlace:
 
-Para acceder al código fuente del proyecto, sigue estos pasos:  
+https://smrodriguez017.github.io/desafio-amigo-secreto/
+
+o puedes acceder al código fuente del proyecto, sigue estos pasos:  
 
 1. **Clona el repositorio desde GitHub**:  
    ```bash
