@@ -1,12 +1,14 @@
 # Amigo Secreto
+![image](https://github.com/user-attachments/assets/403f7c76-b88e-452a-a67c-02c6c53e6b08)
 
 ## Descripción
 
 **Amigo Secreto** es una aplicación web  que permite a los usuarios agregar nombres de amigos a una lista para luego realizar un sorteo aleatorio y determinar quien es el "amigo secreto".
+
 ## Funcionalidades
 
 - **Agregar nombres**: Los usuarios pueden ingresar nombres de amigos en un campo de texto y agregarlos a la lista haciendo clic en el botón "Adicionar".
-- **Validación de entrada**: Si el campo de texto está vacío, se muestra una alerta pidiendo que se ingrese un nombre .Se valida que no se duplique ,se muestra un alerta `El nombre nombre ingresado ya está en la lista.
+- **Validación de entrada**: Si el campo de texto está vacío, se muestra una alerta pidiendo que se ingrese un nombre .Tambien se valida que no se duplique en nombre de amigo ingresado ,en este caso se muestra un alerta "El nombre nombre ingresado ya está en la lista".
 - **Visualizar la lista**: Los nombres ingresados se mostrarán en una lista visible debajo del campo de entrada.
 - **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
 
