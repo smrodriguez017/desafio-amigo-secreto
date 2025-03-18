@@ -3,7 +3,7 @@
 
 ## 📖 Descripción
 
-**Amigo Secreto** es un juego interactivo que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién será su "amigo secreto". Es ideal para organizar intercambios de regalos de manera rápida y sencilla.
+**Amigo Secreto** es un juego que permite a los usuarios agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién será su "amigo secreto". Es ideal para organizar intercambios de regalos de manera rápida y sencilla.
 
 ## ✨ Funcionalidades
 
@@ -18,9 +18,12 @@
 ✅ **Validación de entrada**:  
 - Si el campo de texto está vacío, se mostrará una alerta:  
   ⚠️ `"Por favor, inserte un nombre."`
+  
 ![image](https://github.com/user-attachments/assets/8d4c7914-f4a2-4835-9206-be0f11b668b3)
+
 - Si el nombre ya está en la lista, se mostrará otra alerta:  
   ⚠️ `"El nombre ... ya está en la lista"`
+
 ![image](https://github.com/user-attachments/assets/1aa48f02-3879-4b08-bbfe-e7823ac04342)
 
 ✅ **Sorteo aleatorio**: Al hacer clic en el botón **"Sortear Amigo"**, la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará en la pantalla.
@@ -38,7 +41,7 @@
 
 ---
 
-## 📥 Acceso al Proyecto  
+## 📥 Acceso al proyecto  
 
 Para acceder al código fuente del proyecto, sigue estos pasos:  
 
